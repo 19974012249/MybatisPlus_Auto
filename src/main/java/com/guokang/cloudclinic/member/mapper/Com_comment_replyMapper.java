@@ -1,0 +1,16 @@
+package com.guokang.cloudclinic.member.mapper;
+
+import com.guokang.cloudclinic.member.entity.Com_comment_reply;
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+
+/**
+ * <p>
+ *  Mapper 接口
+ * </p>
+ *
+ * @author 蔡诚杰
+ * @since 2021-04-11
+ */
+public interface Com_comment_replyMapper extends BaseMapper<Com_comment_reply> {
+
+}
